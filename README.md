@@ -11,8 +11,8 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://twitter.com/marcelinzik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marcelinzik" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dmsviana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dmsviana" height="30" width="40" /></a>
+  
 <a href="https://instagram.com/dmsviana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dmsviana" height="30" width="40" /></a>
 </p>
 
