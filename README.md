@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, me chamo Diogo Marcelo</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas.</h3>
 
-- 🔭 Atualmente sou estagiário na **Stefanini**
-
 - 🌱 Estou aprendendo **Java, Spring Boot, Javascript and React**
 
 - 💬 Pergunte-me sobre **Java, Spring Boot**
